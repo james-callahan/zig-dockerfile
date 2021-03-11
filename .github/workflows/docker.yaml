@@ -28,4 +28,6 @@ jobs:
           push: true
           tags: |
             wavesquid/zig:0.7.1
+            wavesquid/zig:0.7.1-busybox
             wavesquid/zig:latest
+            wavesquid/zig:latest-busybox
