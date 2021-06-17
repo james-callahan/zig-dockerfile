@@ -27,7 +27,7 @@ jobs:
         with:
           push: true
           tags: |
-            wavesquid/zig:0.7.1
-            wavesquid/zig:0.7.1-busybox
+            wavesquid/zig:0.8.0
+            wavesquid/zig:0.8.0-busybox
             wavesquid/zig:latest
             wavesquid/zig:latest-busybox
